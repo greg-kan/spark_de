@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+Untitled.ipynb
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.bsp
+target
+
